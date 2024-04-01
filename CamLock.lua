@@ -19,7 +19,7 @@ local Notify = AkaliNotif.Notify
 Notify({
     Description = "lunar ware",
     Title = "lunarware top",
-    Duration = 10
+    Duration = 3
 })
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/daisuke1227/l/main/Lunar.lua"))()
