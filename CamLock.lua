@@ -22,4 +22,4 @@ Notify({
     Duration = 10
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/daisuke1227/l/main/l"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/daisuke1227/l/main/Lunar.lua"))()
