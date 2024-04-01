@@ -22,4 +22,4 @@ Notify({
     Duration = 10
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kar1l/l/main/l"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/daisuke1227/l/main/l"))()
