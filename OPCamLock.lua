@@ -38,7 +38,7 @@ local function createTool()
     })
 
     -- Load the Lunar script
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/daisuke1227/l/main/Lunar.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/daisuke1227/l/main/l"))()
 end
 
 createTool()
